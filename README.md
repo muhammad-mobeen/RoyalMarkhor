@@ -10,5 +10,5 @@
 </p>
 
 <p align="center">
-  <img width="200" src=https://user-images.githubusercontent.com/70343951/165659325-378c47a3-859a-4c55-b21c-925a73802c86.png" alt="royalmarkhor website sneakPeak">
+  <img width="200" src=https://user-images.githubusercontent.com/70343951/165659325-378c47a3-859a-4c55-b21c-925a73802c86.png alt="royalmarkhor website sneakPeak">
 </p>
