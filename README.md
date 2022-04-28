@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.muhammadmobeen.com/markhor">Royal Markhor Blockchain Banking</a>
+  <a href="https://www.muhammadmobeen.com/markhor"><h2>Royal Markhor Blockchain Banking</h2></a>
 </p>
 
 <p align="center">
-  <img width="200" src=https://user-images.githubusercontent.com/70343951/165659325-378c47a3-859a-4c55-b21c-925a73802c86.png alt="royalmarkhor website sneakPeak">
+  <img src=https://user-images.githubusercontent.com/70343951/165659325-378c47a3-859a-4c55-b21c-925a73802c86.png alt="royalmarkhor website sneakPeak">
 </p>
