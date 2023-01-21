@@ -219,9 +219,9 @@
             <p>
               <i class="fas fa-phone mr-3"></i> +92-315-5714918
             </p>
-            <p>
+            <!-- <p>
               <i class="fas fa-print	 mr-3"></i> +92-51-2729705
-            </p>
+            </p> -->
           </div>
           <!-- 3rd coloumn ends -->
         </div>
@@ -231,7 +231,7 @@
         <div class="row align-items-center">
     
           <div class="col-md-7 col-lg-8">
-            <p>	Copyright ©2021 All rights reserved by:
+            <p>	Copyright ©<span id="year"></span> All rights reserved by:
               <a href="#" style="text-decoration: none;">
                 <strong style="color: rgb(62, 255, 120);">Royal Markhor - Blockchain Banking</strong>
               </a></p>
@@ -276,5 +276,8 @@
       
     </footer>
     <!-- Footer ends here -->
+    <script>
+      document.getElementById("year").innerHTML = new Date().getFullYear();
+    </script>
     </body>
     </html>
